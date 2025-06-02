@@ -10,4 +10,5 @@
 #ghcr.io/apache/flink-kubernetes-operator:cc9c6cb
 #rancher/local-path-provisioner:v0.0.31
 #nginx:stable-alpine
-docker.io/library/busybox:latest
+#docker.io/library/busybox:latest
+mysql:8.0
