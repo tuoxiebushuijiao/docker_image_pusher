@@ -11,4 +11,5 @@
 #rancher/local-path-provisioner:v0.0.31
 #nginx:stable-alpine
 #docker.io/library/busybox:latest
-mysql:8.0
+#mysql:8.0
+dinkydocker/dinky-standalone-server:1.2.3-flink1.20
