@@ -13,5 +13,6 @@
 #docker.io/library/busybox:latest
 #mysql:8.0
 #dinkydocker/dinky-standalone-server:1.2.3-flink1.20
-emqx/emqx-operator-controller:2.2.29
-emqx/emqx-enterprise:5.8
+#emqx/emqx-operator-controller:2.2.29
+#emqx/emqx-enterprise:5.8
+emqx/emqx:latest
