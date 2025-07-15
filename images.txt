@@ -17,4 +17,4 @@
 ##emqx/emqx-enterprise:5.8
 #emqx/emqx:latest
 emqx/emqx:5.1.1
-emqx/emqx-ce:5.0.9
+#emqx/emqx-ce:5.0.9
