@@ -16,4 +16,5 @@
 #emqx/emqx-operator-controller:2.2.29
 ##emqx/emqx-enterprise:5.8
 #emqx/emqx:latest
-emqx/emqx:4.4.19
+emqx/emqx:5.1.1
+emqx/emqx-ce:5.0.9
