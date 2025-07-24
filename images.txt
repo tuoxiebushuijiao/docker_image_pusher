@@ -24,4 +24,4 @@
 apache/iotdb:2.0.4-standalone
 redis:6.2
 nacos/nacos-server:v3.0.0
-docker pull nacos/nacos-operator
+docker pull nacos/nacos-operator:latest
