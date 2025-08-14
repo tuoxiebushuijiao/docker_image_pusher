@@ -25,4 +25,5 @@
 #redis:6.2
 #nacos/nacos-server:v3.0.0
 #nacos/nacos-operator:latest
-apache/iotdb:latest
+#apache/iotdb:latest
+openjdk:17-jdk-slim
