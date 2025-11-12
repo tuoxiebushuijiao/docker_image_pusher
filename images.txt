@@ -27,4 +27,7 @@
 #nacos/nacos-operator:latest
 #apache/iotdb:latest
 #openjdk:17-jdk-slim
-openjdk:8-jdk-slim
+#openjdk:8-jdk-slim
+docker.elastic.co/eck/eck-operator:3.2.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+docker.elastic.co/kibana/kibana:8.11.0
