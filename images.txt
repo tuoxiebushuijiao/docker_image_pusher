@@ -33,4 +33,5 @@
 #docker.elastic.co/kibana/kibana:8.11.0
 #alpine:latest
 #curlimages/curl:latest
-ghcr.io/apache/flink-kubernetes-operator:f504138
+#ghcr.io/apache/flink-kubernetes-operator:f504138
+flink:1.20-scala_2.12-java17
