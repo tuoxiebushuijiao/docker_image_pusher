@@ -35,5 +35,6 @@
 #curlimages/curl:latest
 #ghcr.io/apache/flink-kubernetes-operator:f504138
 #flink:1.20-scala_2.12-java17
-flink:1.20.3-scala_2.12-java17    
-eclipse-temurin:17-jdk-noble 
+#flink:1.20.3-scala_2.12-java17    
+#eclipse-temurin:17-jdk-noble 
+cr.fluentbit.io/fluent/fluent-bit:3.2.10
