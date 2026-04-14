@@ -38,4 +38,4 @@
 #flink:1.20.3-scala_2.12-java17    
 #eclipse-temurin:17-jdk-noble 
 #cr.fluentbit.io/fluent/fluent-bit:3.2.10
-docker pull apache/iotdb:2.0.6-standalone
+apache/iotdb:2.0.6-standalone
