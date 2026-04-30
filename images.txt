@@ -38,4 +38,6 @@
 #flink:1.20.3-scala_2.12-java17    
 #eclipse-temurin:17-jdk-noble 
 #cr.fluentbit.io/fluent/fluent-bit:3.2.10
-apache/iotdb:2.0.6-standalone
+#apache/iotdb:2.0.6-standalone
+egistry.k8s.io/sig-storage/snapshot-controller:v8.5.0
+ghcr.io/piraeusdatastore/snapshot-conversion-webhook:v8.5.0
