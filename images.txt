@@ -46,8 +46,6 @@
 #apecloud-registry.cn-zhangjiakou.cr.aliyuncs.com/apecloud/kubeblocks:1.0.2
 #apecloud-registry.cn-zhangjiakou.cr.aliyuncs.com/apecloud/kubeblocks-charts:1.0.2
 docker.io/apecloud/mysql:8.0.35
-docker.io/apecloud/mysql:8.0.35
-docker.io/apecloud/mysql:8.0.35
 docker.io/apecloud/mysql_audit_log:8.0.33
 docker.io/apecloud/orc-tools:1.0.2
 docker.io/apecloud/mysqld-exporter:0.15
