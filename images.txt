@@ -59,4 +59,7 @@
 #docker.io/apecloud/agamotto:0.1.2-beta.1
 #docker.io/apecloud/redis:8.4.0
 #docker.io/apecloud/bash-busybox:1.37.0-musl-curl
-docker.io/apecloud/etcd:v3.5.15
+#docker.io/apecloud/etcd:v3.5.15
+apecloud-registry.cn-zhangjiakou.cr.aliyuncs.com/apecloud/minio:RELEASE.2025-10-15T17-29-55Z
+apecloud-registry.cn-zhangjiakou.cr.aliyuncs.com/apecloud/minio:RELEASE.2025-10-15T17-29-55Z
+apecloud-registry.cn-zhangjiakou.cr.aliyuncs.com/apecloud/kubeblocks-tools:1.0.0
