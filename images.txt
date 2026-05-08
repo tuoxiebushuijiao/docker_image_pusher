@@ -66,4 +66,4 @@
 #nacos/nacos-operator:latest
 #nacos/nacos-server:v3.2.1
 #registry.cn-hangzhou.aliyuncs.com/choerodon-tools/mysql-client:10.2.15-r0
-apache/iotdb:2.0.8
+apache/iotdb:2.0.8-standalone
