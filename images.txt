@@ -54,7 +54,7 @@
 #docker.io/apecloud/syncer:0.6.5
 #registry.k8s.io/pause:3.9
 #docker.io/apecloud/mysql:8.0.44
-docker.io/apecloud/proxysql:3.0.8
+#docker.io/apecloud/proxysql:3.0.8
 #docker.io/apecloud/dbctl:0.1.8
 #docker.io/apecloud/agamotto:0.1.2-beta.1
 #docker.io/apecloud/redis:8.4.0
