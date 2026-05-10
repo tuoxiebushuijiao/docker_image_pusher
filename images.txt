@@ -78,6 +78,5 @@
 #quay.io/kiwigrid/k8s-sidecar:2.7.1
 #quay.io/prometheus/node-exporter:v1.11.1
 #docker.io/library/busybox:1.37.0
-nacos/nacos-server:v3.2.0
-nacos/nacos-server:v3.1.2
-nacos/nacos-server:v3.0.3
+dinkydocker/dinky-standalone-server:1.2.5-flink1.20
+
